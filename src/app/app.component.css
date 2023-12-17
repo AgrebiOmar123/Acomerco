@@ -1,0 +1,9 @@
+.navbar-brand
+{
+margin-right: 30px;
+}
+.nav-item
+{
+    display: flex;
+    align-items: center;
+}
